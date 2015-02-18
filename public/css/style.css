@@ -1,0 +1,143 @@
+body {
+background-image: url(../images/bg.jpg);
+
+border: 0;
+font: 12px Arial,Helvetica,sans-serif;
+color: #323232;
+line-height: 30px;
+
+}
+.wrapper{
+width: 100%;
+overflow: hidden;
+border-radius:5px;
+}
+.op_info_label{
+width:300px;
+}
+
+.bulk-ul
+{
+width:100%;
+}
+.bulk-ul li
+{
+width:100%;
+}
+
+.main-wid{
+width: 153px;
+}
+.li_input{
+width:110px;
+}
+
+.nick_name_option{
+width:110px;
+}
+
+.wrapper_heading{
+overflow: hidden;
+border-radius:5px;
+background-image: url(../images/gradient12.png);
+color:#fff;
+font-style: bold;
+border:1px solid black; 
+position:relative;
+text-align:left;
+background-color:white;
+padding-left:10px;
+}
+
+.main{
+
+background-color:#fff;
+border-radius:5px;
+width: 920px;
+margin: 0 auto;
+display:block;
+}
+
+input, textarea, keygen, select, button, nav, isindex {
+margin: 0.5em;
+font: -webkit-small-control;
+color: initial;
+letter-spacing: normal;
+word-spacing: normal;
+text-transform: none;
+text-indent: 0px;
+text-shadow: none;
+display: inline-block;
+text-align: start;
+}
+ol, ul {
+list-style: none;
+}
+.formData li label {
+float: left;
+width: 96px;
+}
+#menu{
+width: 100%;
+overflow: hidden;
+margin-top: 3px;
+}
+#menu li{
+display: list-item;
+}
+
+.menu_ul li{
+display:inline;
+font-size:12px;
+}
+.menu li{
+border-right:1px solid black;
+border-top:1px solid black;
+border-bottom:1px solid black;
+display:inline;
+font-size:14px;
+border-radius:4px;
+padding-left:0.7em;
+text-align:center;
+padding-right:0.75em;
+}
+.menu li:hover{
+background-color:white;
+}
+.active{
+background-color:#011827;
+}
+.user_active{
+	color:red;
+	background-color:white;
+}
+.inactive a{
+}
+.header_menu{
+	background-image: url(../images/gradient.png);
+	background-repeat:repeat-x;
+
+	display:block;width:920px;
+	margin:0 auto;height:30px;
+	color:white;
+
+	border-radius:5px;
+	margin-bottom:8px;
+}
+.notification
+{
+	color:red;
+}
+
+button,input[type="submit"]
+{
+	background-color:rgb(3, 60, 112);
+	color:#fff;
+}
+
+.disabled{
+	background-color:rgb(235, 235, 228);
+	color:#000;
+}
+
+
